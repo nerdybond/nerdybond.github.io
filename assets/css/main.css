@@ -2309,6 +2309,11 @@ input, select, textarea {
 
 /* Contact */
 
+.pageclip-form__submit::after {
+	border-color: rgba(155,79,150, 0.8);
+	border-left-color: rgb(0,56,168);
+  }
+
 	#contact {
 		overflow: hidden;
 		padding-bottom: 0;

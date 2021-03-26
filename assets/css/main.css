@@ -729,7 +729,7 @@ input, select, textarea {
 		input[type="reset"]:hover,
 		.button:hover,
 		button:hover {
-			background-color: #fd7272;
+			background-color: #ffffff;
 		}
 
 		input[type="button"]:active,
@@ -737,7 +737,7 @@ input, select, textarea {
 		input[type="reset"]:active,
 		.button:active,
 		button:active {
-			background-color: #fd7272;
+			background-color: #ffffff;
 		}
 
 		input[type="button"].style2,
@@ -746,7 +746,7 @@ input, select, textarea {
 		.button.style2,
 		button.style2 {
 			background-color: transparent;
-			border: solid 2px #fd7272;
+			border: solid 2px #ffffff;
 			color: inherit;
 		}
 
@@ -771,7 +771,7 @@ input, select, textarea {
 			input[type="reset"].style2.down,
 			.button.style2.down,
 			button.style2.down {
-				background-image: url("images/arrow.svg");
+				background-image: url("images/dark-arrow.svg");
 			}
 
 /* Form */

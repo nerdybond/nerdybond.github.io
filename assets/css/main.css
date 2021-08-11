@@ -688,11 +688,12 @@ h2 {
 
 @media screen and (max-width: 736px) {
   h1 {
-    font-size: 1.5em;
+    font-size: 3em;
   }
 
   h2 {
     font-size: 1em;
+    line-height: 5em;
   }
 }
 
@@ -2006,7 +2007,16 @@ body.is-touch .poptrox-popup .closer {
     position: relative;
     left: 0;
     top: 0;
-    height: 2.5em;
+    height: 3.5em;
+    line-height: 2.5em;
+  }
+
+  #content h1 {
+    text-align: center;
+    position: relative;
+    left: 0;
+    top: 0;
+    height: 3.5em;
     line-height: 2.5em;
   }
 

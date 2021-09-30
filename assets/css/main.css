@@ -2276,6 +2276,9 @@ body.is-touch .main {
     text-align: center;
     padding: 3em 10px 3em 10px;
   }
+  .main.style3 .button.anchored {
+    display: none;
+  }
 }
 
 @media screen and (max-width: 480px) {

@@ -2043,12 +2043,12 @@ body.is-touch .poptrox-popup .closer {
 }
 
 body {
-  padding-top: 3em;
+  padding-top: 0px;
 }
 
 @media screen and (max-width: 736px) {
   body {
-    padding-top: 2.5em;
+    padding-top: 0px;
   }
 }
 

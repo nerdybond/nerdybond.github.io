@@ -1939,6 +1939,7 @@ body.is-touch .poptrox-popup .closer {
   background: rgba(168, 171, 198, 0.65);
   height: 3em;
   line-height: 3em;
+  padding-left: 1rem;
   box-shadow: 0 0 0.5em 0 rgba(255, 255, 255, 0.1);
 }
 
